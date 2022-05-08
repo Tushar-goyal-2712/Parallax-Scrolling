@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Parallax Design Website
 
-Clone of cineflix website
+Website with Parallax Effect
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://parallax-scrolling-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Parallax-Scrolling.git
 ```
 
 Install node_module dependencies
